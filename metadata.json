@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A modern, responsive personal portfolio featuring biography, project showcase, skills radar, interactive contact form, and downloadable PDF resume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
